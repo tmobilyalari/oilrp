@@ -1,0 +1,4 @@
+# Write Pip Install Command
+
+pip -m install pynput
+pip -m install pydirectinput
